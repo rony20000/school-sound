@@ -52,7 +52,7 @@ npm run build
 # Preview the build locally
 npm run preview
 
-
+````
 
 # Notes
 
@@ -68,4 +68,4 @@ npm run preview
 ## Vue.js vs React
 - My primary focus is on React, so some parts of the Vue.js implementation might not be as refined as they would be in React. However, I ensured the project meets all the requirements and is well-structured.
 
-````
+
